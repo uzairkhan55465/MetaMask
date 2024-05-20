@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-Ctabackground {
+    background-image: url(./assets/images/partner.png);
+  }
+  .bg-grey1 {
+    --tw-bg-opacity: 1;
+    background-color: #1a1b1f;
+  }
